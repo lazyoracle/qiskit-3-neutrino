@@ -1,0 +1,5 @@
+qiskit==0.25.2
+matplotlib==3.4.1
+jupyterlab==3.0.14
+jupyter==1.0.0
+notebook==6.3.0
