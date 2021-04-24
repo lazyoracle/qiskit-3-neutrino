@@ -4,6 +4,8 @@ Harnessing the power of 3-level systems such as transmon qutrits to the standard
 
 ## TODO
 
+[Hackathon Schedule v1](https://raw.githubusercontent.com/justjosie/event-info-and-assets/master/eu_hackathon/QiskitHackathonEurope_ResearchStudyGroups_AttendeeGuide_V1.pdf)
+
 ### Project Proposal
 
 **Due Date**: April 29, 2021
