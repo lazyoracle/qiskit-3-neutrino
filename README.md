@@ -2,6 +2,13 @@
 
 Harnessing the power of 3-level systems such as transmon qutrits to the standard three-flavor paradigm of neutrino oscillations.
 
+## Resources
+
+* [Simulation of Collective Neutrino Oscillations on a Quantum Computer (2021)](https://arxiv.org/abs/2102.12556)
+* [Neutrino oscillations in a quantum processor (2019)](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.1.033176)
+* [Experimental high-dimensional Greenberger-Horne-Zeilinger entanglement with superconducting transmon qutrits (2021)](https://arxiv.org/abs/2104.05627)
+* [Qiskit Pulse Tutorial](https://www.youtube.com/watch?v=V_as5PufUiU)
+
 ## TODO
 
 [Hackathon Schedule v1](https://raw.githubusercontent.com/justjosie/event-info-and-assets/master/eu_hackathon/QiskitHackathonEurope_ResearchStudyGroups_AttendeeGuide_V1.pdf)
