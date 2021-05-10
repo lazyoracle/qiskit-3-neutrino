@@ -9,7 +9,7 @@ Harnessing the power of 3-level systems such as transmon qutrits to the standard
 * [Experimental high-dimensional Greenberger-Horne-Zeilinger entanglement with superconducting transmon qutrits (2021)](https://arxiv.org/abs/2104.05627)
 * [Qiskit Pulse Tutorial](https://www.youtube.com/watch?v=V_as5PufUiU)
 * [Qiskit pulse: programming quantum computers through the cloud with pulses (2020)](https://iopscience.iop.org/article/10.1088/2058-9565/aba404)
-* [Software for arbitrary single qubit & qutrit gate calibration(2013)](https://qudev.phys.ethz.ch/static/content/science/Documents/semester/Andreas_Landig_semesterthesis_131020.pdf)
+* [Software for arbitrary single qubit & qutrit gate calibration (2013)](https://qudev.phys.ethz.ch/static/content/science/Documents/semester/Andreas_Landig_semesterthesis_131020.pdf)
 
 
 ## TODO
