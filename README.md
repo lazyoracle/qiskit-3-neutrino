@@ -35,7 +35,11 @@ The final submission should include:
 * [Experimental high-dimensional Greenberger-Horne-Zeilinger entanglement with superconducting transmon qutrits (2021)](https://arxiv.org/abs/2104.05627)
 * [Qiskit Pulse Tutorial](https://www.youtube.com/watch?v=V_as5PufUiU)
 * [Qiskit pulse: programming quantum computers through the cloud with pulses (2020)](https://iopscience.iop.org/article/10.1088/2058-9565/aba404)
-* [Software for arbitrary single qubit & qutrit gate calibration (2013)](https://qudev.phys.ethz.ch/static/content/science/Documents/semester/Andreas_Landig_semesterthesis_131020.pdf)
+* [Quantum Information Scrambling on a Superconducting Qutrit Processor](https://arxiv.org/pdf/2003.03307.pdf)
+* [Optimized Quantum Compilation for Near-Term Algorithms with OpenPulse](https://arxiv.org/abs/2004.11205)
+* [Geometric speed limit of neutrino oscillation](https://link.springer.com/article/10.1007/s11128-021-03128-7)
+* [Qutrit randomized benchmarking](https://arxiv.org/abs/2008.09134)
+
 
 ## Acknowledgements
 This is an ambitious project that involve interdisciplinary understanding of two very complex fields, namely transmon physics and neutrino physics. We are students from various backgrounds with neither the experience nor the resources to any of the sub-field, and with the hit from COVID-19 affecting our most senior member (thank you and get well soon @lazyoracle Anurag Saha Roy!) during the crucial Phase 2, we struggle to put together a presentable effort.
