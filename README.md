@@ -15,7 +15,7 @@ Harnessing the power of 3-level systems such as transmon qutrits to the standard
 Our coding files is at folder [notebooks](https://github.com/hanoipho997/Neutrino-oscillations-in-a-3-level-quantum-system/tree/main/notebooks), which includes 3 jupyter notebooks, namely NeutrinoOscialltionPython.ipynb, Assess_Higher_new.ipynb, PulseSchedule.ipynb,
 The NeutrinoOscialltionPython.ipynb file has classical simulations of neutrino oscillation to use as a benchmark. 
 Assess_Higher_new.ipynb file includes spectroscopy and Rabi experiments on ibmq_armonk.
-More importantly, the IBM quantum execution of neutrino as a qutrit is in file PulseSchedule.ipynb
+More importantly, the quantum execution of neutrino as a qutrit on IBM Armonk is in file PulseSchedule.ipynb
 
 ### Final Project
 
