@@ -11,19 +11,11 @@ Harnessing the power of 3-level systems such as transmon qutrits to the standard
 * [Qiskit pulse: programming quantum computers through the cloud with pulses (2020)](https://iopscience.iop.org/article/10.1088/2058-9565/aba404)
 * [Software for arbitrary single qubit & qutrit gate calibration (2013)](https://qudev.phys.ethz.ch/static/content/science/Documents/semester/Andreas_Landig_semesterthesis_131020.pdf)
 
-
-## TODO
-
-[Hackathon Schedule v1](https://raw.githubusercontent.com/justjosie/event-info-and-assets/master/eu_hackathon/QiskitHackathonEurope_ResearchStudyGroups_AttendeeGuide_V1.pdf)
-
-### Project Proposal
-
-**Due Date**: April 29, 2021
-
- A project proposal should include 3 slides describing:
- - [ ] Project idea
- - [ ] Impact and goals
- - [ ] Implementation plan: timeline, tasks & resources (research papers, Qiskit libraries/modules...)
+## Coding files Negavitation
+Our coding files is at folder [notebooks](https://github.com/hanoipho997/Neutrino-oscillations-in-a-3-level-quantum-system/tree/main/notebooks),which include 3 jupyter notebooks, namely NeutrinoOscialltionPython.ipynb, Assess_Higher_new.ipynb, PulseSchedule.ipynb,
+The NeutrinoOscialltionPython.ipynb file, which has classical simulations of neutrino oscillation. 
+Assess_Higher_new.ipynb file includes spectroscopy and Rabi experiments on ibmq_armonk.
+More importantly, the IBM quantum execution of neutrino as a qutrit is in file PulseSchedule.ipynb
 
 ### Final Project
 
