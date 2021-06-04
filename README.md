@@ -27,6 +27,7 @@ The final submission should include:
 
 - **3-minute pre-recorded video presentation**:
   - [ ] Crisp summary of the scientific report
+ 
 ## Resources
 
 * [Simulation of Collective Neutrino Oscillations on a Quantum Computer (2021)](https://arxiv.org/abs/2102.12556)
@@ -36,3 +37,5 @@ The final submission should include:
 * [Qiskit pulse: programming quantum computers through the cloud with pulses (2020)](https://iopscience.iop.org/article/10.1088/2058-9565/aba404)
 * [Software for arbitrary single qubit & qutrit gate calibration (2013)](https://qudev.phys.ethz.ch/static/content/science/Documents/semester/Andreas_Landig_semesterthesis_131020.pdf)
 
+## Ack
+This is an ambitious project that involve interdisciplinary understanding of two very complex fields, namely transmon physics and neutrino physics. We are students from various backgrounds with neither the experience nor the resources to any of the sub-field, and with the hit from COVID-19 affecting our most senior member (thank you and get well soon @lazyoracle Anurag Saha Roy!) during the crucial Phase 2, we struggle to put together a presentable effort.
